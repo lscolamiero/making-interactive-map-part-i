@@ -1,0 +1,29 @@
+#myMap {
+    height: 600px;
+    background-color: #ccc;
+    border: 2px solid rgb(22, 7, 107);
+    border-style: groove;
+    border-radius: 25px;
+    box-shadow: 5px 3px;
+}
+
+.buttonStyle {
+    border: 2px solid rgb(22, 7, 107);
+    border-radius: 25px;
+    background-color: beige;
+    margin-right: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 3px;
+    border-style: groove;
+    font-weight: bolder;
+}
+
+.textCenter {
+    text-align: center;
+    color: rgb(20, 4, 116);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.transition:hover {
+    transform: scale(0.9); color: rgb(202, 8, 192);
+}
